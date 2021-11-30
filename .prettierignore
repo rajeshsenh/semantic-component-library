@@ -1,0 +1,12 @@
+# editor configs
+.vscode/
+
+node_modules
+build
+dist
+public
+
+package.json
+package-lock.json
+
+README.md
